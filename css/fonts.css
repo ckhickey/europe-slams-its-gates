@@ -1,0 +1,71 @@
+@font-face {
+  font-family: Solido;
+  font-style: normal;
+  font-weight: 300;
+  src: url(fonts/solido--normal--300.woff2) format('woff2'),
+         url(fonts/solido--normal--300.woff) format('woff');
+}
+
+@font-face {
+  font-family: Solido;
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/solido--normal--400.woff2) format('woff2'),
+         url(fonts/solido--normal--400.woff) format('woff');
+}
+
+@font-face {
+  font-family: Solido;
+  font-style: italic;
+  font-weight: 400;
+  src: url(fonts/solido--italic--400.woff2) format('woff2'),
+         url(fonts/solido--italic--400.woff) format('woff');
+}
+
+@font-face {
+  font-family: Solido;
+  font-style: normal;
+  font-weight: 800;
+  src: url(fonts/solido--normal--800.woff2) format('woff2'),
+         url(fonts/solido--normal--800.woff) format('woff');
+}
+
+@font-face {
+  font-family: Solido;
+  font-style: normal;
+  font-weight: 900;
+  src: url(fonts/solido--normal--900.woff2) format('woff2'),
+         url(fonts/solido--normal--900.woff) format('woff');
+}
+
+@font-face {
+  font-family: Solido Compressed;
+  font-style: normal;
+  font-weight: 600;
+  src: url(fonts/solido-compressed--normal--600.woff2) format('woff2'),
+         url(fonts/solido-compressed--normal--600.woff) format('woff');
+}
+
+@font-face {
+  font-family: Tiempos;
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/tiempos--normal--400.woff2) format('woff2'),
+         url(fonts/tiempos--normal--400.woff) format('woff');
+}
+
+@font-face {
+  font-family: Tiempos;
+  font-style: normal;
+  font-weight: 600;
+  src: url(fonts/tiempos--normal--600.woff2) format('woff2'),
+         url(fonts/tiempos--normal--600.woff) format('woff');
+}
+
+@font-face {
+  font-family: Tiempos Headline;
+  font-style: normal;
+  font-weight: 200;
+  src: url(fonts/tiempos-headline--normal--200.woff2) format('woff2'),
+         url(fonts/tiempos-headline--normal--200.woff) format('woff');
+}
